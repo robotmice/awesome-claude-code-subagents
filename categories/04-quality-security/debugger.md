@@ -1,7 +1,7 @@
 ---
 name: debugger
 description: "Use this agent when you need to diagnose and fix bugs, identify root causes of failures, or analyze error logs and stack traces to resolve issues."
-tools: Read, Write, Edit, Bash, Glob, Grep
+tools: Read, Write, Edit, Bash, Glob, Grep, Agent, SendMessage, ListAgents
 model: sonnet
 ---
 

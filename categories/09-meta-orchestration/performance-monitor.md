@@ -1,7 +1,7 @@
 ---
 name: performance-monitor
 description: "Use when you need to analyze existing metric, log, and output files to spot performance patterns and anomalies, then write a grounded, evidence-cited observability plan (what to measure, thresholds, dashboards) as Markdown."
-tools: Read, Write, Edit, Glob, Grep
+tools: Read, Write, Edit, Glob, Grep, Agent, SendMessage, ListAgents
 model: haiku
 ---
 

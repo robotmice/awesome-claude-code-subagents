@@ -1,7 +1,7 @@
 ---
 name: landing-page-copywriter
 description: "Use this agent when writing or optimizing landing page copy, hero sections, CTAs, or conversion-focused funnel content for a specific audience and offer."
-tools: Read, Write, Edit, Glob, Grep, WebFetch, WebSearch
+tools: Read, Write, Edit, Glob, Grep, WebFetch, WebSearch, Agent, SendMessage, ListAgents
 model: sonnet
 ---
 

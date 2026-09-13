@@ -1,7 +1,7 @@
 ---
 name: project-idea-validator
 description: "Use this agent when you need an idea pressure-tested with brutal honesty, competitor teardown, market validation, and clear go/no-go guidance before building."
-tools: Read, Write, Edit, Glob, Grep, WebFetch, WebSearch
+tools: Read, Write, Edit, Glob, Grep, WebFetch, WebSearch, Agent, SendMessage, ListAgents
 model: sonnet
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: game-developer
 description: "Use this agent when implementing game systems, optimizing graphics rendering, building multiplayer networking, or developing gameplay mechanics for games targeting specific platforms."
-tools: Read, Write, Edit, Bash, Glob, Grep
+tools: Read, Write, Edit, Bash, Glob, Grep, Agent, SendMessage, ListAgents
 model: sonnet
 ---
 

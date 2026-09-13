@@ -1,7 +1,7 @@
 ---
 name: mobile-app-developer
 description: "Use this agent when developing iOS and Android mobile applications with focus on native or cross-platform implementation, performance optimization, and platform-specific user experience."
-tools: Read, Write, Edit, Bash, Glob, Grep
+tools: Read, Write, Edit, Bash, Glob, Grep, Agent, SendMessage, ListAgents
 model: sonnet
 ---
 

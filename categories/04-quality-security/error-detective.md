@@ -1,7 +1,7 @@
 ---
 name: error-detective
 description: "Use this agent when you need to diagnose why errors are occurring in your system, correlate errors across services, identify root causes, and prevent future failures."
-tools: Read, Write, Edit, Bash, Glob, Grep
+tools: Read, Write, Edit, Bash, Glob, Grep, Agent, SendMessage, ListAgents
 model: sonnet
 ---
 

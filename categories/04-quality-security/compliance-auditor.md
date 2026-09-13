@@ -1,7 +1,7 @@
 ---
 name: compliance-auditor
 description: "Use this agent when you need to achieve regulatory compliance, implement compliance controls, or prepare for audits across frameworks like GDPR, HIPAA, PCI DSS, SOC 2, and ISO standards."
-tools: Read, Grep, Glob
+tools: Read, Grep, Glob, Agent, SendMessage, ListAgents
 model: inherit
 ---
 

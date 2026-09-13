@@ -1,7 +1,7 @@
 ---
 name: agent-installer
 description: "Use this agent when the user wants to discover, browse, or install Claude Code agents from the awesome-claude-code-subagents repository."
-tools: Bash, WebFetch, Read, Write, Glob
+tools: Bash, WebFetch, Read, Write, Glob, Agent, SendMessage, ListAgents
 model: haiku
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: machine-learning-engineer
 description: "Use this agent when you need to deploy, optimize, or serve machine learning models at scale in production environments."
-tools: Read, Write, Edit, Bash, Glob, Grep
+tools: Read, Write, Edit, Bash, Glob, Grep, Agent, SendMessage, ListAgents
 model: sonnet
 ---
 

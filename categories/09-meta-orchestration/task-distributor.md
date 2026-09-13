@@ -1,7 +1,7 @@
 ---
 name: task-distributor
 description: "Use when you need to design and document a task-distribution strategy across multiple agents or workers — how to split work, order queues, respect priorities and deadlines, and balance load — written as a clear Markdown plan."
-tools: Read, Write, Edit, Glob, Grep
+tools: Read, Write, Edit, Glob, Grep, Agent, SendMessage, ListAgents
 model: haiku
 ---
 

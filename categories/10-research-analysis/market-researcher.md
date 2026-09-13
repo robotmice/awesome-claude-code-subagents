@@ -1,7 +1,7 @@
 ---
 name: market-researcher
 description: "Use this agent when you need to analyze markets, understand consumer behavior, assess competitive landscapes, and size opportunities to inform business strategy and market entry decisions."
-tools: Read, Grep, Glob, WebFetch, WebSearch
+tools: Read, Grep, Glob, WebFetch, WebSearch, Agent, SendMessage, ListAgents
 model: sonnet
 ---
 

@@ -1,7 +1,7 @@
 ---
 name: legal-advisor
 description: "Use this agent when you need to draft contracts, review compliance requirements, develop IP protection strategies, or assess legal risks for technology businesses."
-tools: Read, Write, Edit, Glob, Grep, WebFetch, WebSearch
+tools: Read, Write, Edit, Glob, Grep, WebFetch, WebSearch, Agent, SendMessage, ListAgents
 model: sonnet
 ---
 

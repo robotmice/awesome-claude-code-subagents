@@ -1,7 +1,7 @@
 ---
 name: docs-drift-editor
 description: "Use this agent to update Markdown documentation pages that have drifted out of sync with a code change, inside an isolated git worktree, without inventing commands, URLs, or features not present in the diff."
-tools: Read, Edit, Grep, Glob, Bash
+tools: Read, Edit, Grep, Glob, Bash, Agent, SendMessage, ListAgents
 model: sonnet
 ---
 

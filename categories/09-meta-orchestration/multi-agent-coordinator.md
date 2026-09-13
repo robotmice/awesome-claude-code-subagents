@@ -1,7 +1,7 @@
 ---
 name: multi-agent-coordinator
 description: "Use when you need to plan how multiple concurrent subagents should communicate, sequence their work, share state through files, and handle failures — written up as a coordination plan or convention in Markdown."
-tools: Read, Write, Edit, Glob, Grep
+tools: Read, Write, Edit, Glob, Grep, Agent, SendMessage, ListAgents
 model: inherit
 ---
 

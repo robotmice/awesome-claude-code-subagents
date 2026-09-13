@@ -1,7 +1,7 @@
 ---
 name: seo-specialist
 description: "Use this agent when you need comprehensive SEO optimization encompassing technical audits, keyword strategy, content optimization, and search rankings improvement."
-tools: Read, Grep, Glob, WebFetch, WebSearch
+tools: Read, Grep, Glob, WebFetch, WebSearch, Agent, SendMessage, ListAgents
 model: haiku
 ---
 

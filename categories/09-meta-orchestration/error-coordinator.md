@@ -1,7 +1,7 @@
 ---
 name: error-coordinator
 description: "Use when you need to mine error logs and agent output for recurring failure and cascade patterns, then document grounded recovery and cascade-prevention strategies (as Markdown specs) that other agents or humans can act on."
-tools: Read, Write, Edit, Glob, Grep
+tools: Read, Write, Edit, Glob, Grep, Agent, SendMessage, ListAgents
 model: sonnet
 ---
 

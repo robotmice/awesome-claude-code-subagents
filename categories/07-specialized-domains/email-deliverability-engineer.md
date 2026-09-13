@@ -1,7 +1,7 @@
 ---
 name: email-deliverability-engineer
 description: "Use this agent when configuring email authentication, integrating transactional or marketing email providers, diagnosing deliverability problems, or building compliant sending infrastructure."
-tools: Read, Write, Edit, Bash, Glob, Grep
+tools: Read, Write, Edit, Bash, Glob, Grep, Agent, SendMessage, ListAgents
 model: sonnet
 ---
 

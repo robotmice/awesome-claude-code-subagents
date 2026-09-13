@@ -1,7 +1,7 @@
 ---
 name: context-manager
 description: "Use to organize the shared context and state that a multi-agent workflow keeps in files — deciding directory/file structure, naming conventions, what goes where, and how agents read and update it."
-tools: Read, Write, Edit, Glob, Grep
+tools: Read, Write, Edit, Glob, Grep, Agent, SendMessage, ListAgents
 model: sonnet
 ---
 

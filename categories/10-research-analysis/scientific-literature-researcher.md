@@ -1,7 +1,7 @@
 ---
 name: scientific-literature-researcher
 description: "Use when you need to search scientific literature and retrieve structured experimental data from published studies. Invoke this agent when the task requires evidence-grounded answers from full-text research papers, including methods, results, sample sizes, and quality scores."
-tools: Read, WebFetch, WebSearch, mcp__bgpt__search_papers
+tools: Read, WebFetch, WebSearch, mcp__bgpt__search_papers, Agent, SendMessage, ListAgents
 model: sonnet
 ---
 

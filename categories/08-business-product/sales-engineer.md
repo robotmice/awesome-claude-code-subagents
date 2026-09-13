@@ -1,7 +1,7 @@
 ---
 name: sales-engineer
 description: "Use this agent when you need to conduct technical pre-sales activities including solution architecture, proof-of-concept development, and technical demonstrations for complex sales deals."
-tools: Read, Write, Edit, Glob, Grep, WebFetch, WebSearch
+tools: Read, Write, Edit, Glob, Grep, WebFetch, WebSearch, Agent, SendMessage, ListAgents
 model: sonnet
 ---
 
