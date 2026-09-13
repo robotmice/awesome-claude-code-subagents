@@ -47,7 +47,7 @@ This repository serves as the definitive collection of Claude Code subagents, sp
 ### As Claude Code Plugin (Recommended)
 
 ```bash
-claude plugin marketplace add VoltAgent/awesome-claude-code-subagents
+claude plugin marketplace add robotmice/awesome-claude-code-subagents
 claude plugin install <plugin-name>
 ```
 
