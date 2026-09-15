@@ -10,17 +10,30 @@
   "license": "MIT",
   "agents": [
     "./ai-engineer.md",
+    "./ai-engineer-overdrive.md",
     "./data-analyst.md",
+    "./data-analyst-overdrive.md",
     "./data-engineer.md",
+    "./data-engineer-overdrive.md",
     "./data-scientist.md",
+    "./data-scientist-overdrive.md",
     "./database-optimizer.md",
+    "./database-optimizer-overdrive.md",
     "./llm-architect.md",
+    "./llm-architect-overdrive.md",
     "./machine-learning-engineer.md",
+    "./machine-learning-engineer-overdrive.md",
     "./ml-engineer.md",
+    "./ml-engineer-overdrive.md",
     "./mlops-engineer.md",
+    "./mlops-engineer-overdrive.md",
     "./nlp-engineer.md",
+    "./nlp-engineer-overdrive.md",
     "./postgres-pro.md",
+    "./postgres-pro-overdrive.md",
     "./prompt-engineer.md",
-    "./reinforcement-learning-engineer.md"
+    "./prompt-engineer-overdrive.md",
+    "./reinforcement-learning-engineer.md",
+    "./reinforcement-learning-engineer-overdrive.md"
   ]
 }

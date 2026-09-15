@@ -10,15 +10,26 @@
   "license": "MIT",
   "agents": [
     "./api-designer.md",
+    "./api-designer-overdrive.md",
     "./backend-developer.md",
+    "./backend-developer-overdrive.md",
     "./design-bridge.md",
+    "./design-bridge-overdrive.md",
     "./electron-pro.md",
+    "./electron-pro-overdrive.md",
     "./frontend-developer.md",
+    "./frontend-developer-overdrive.md",
     "./fullstack-developer.md",
+    "./fullstack-developer-overdrive.md",
     "./graphql-architect.md",
+    "./graphql-architect-overdrive.md",
     "./microservices-architect.md",
+    "./microservices-architect-overdrive.md",
     "./mobile-developer.md",
+    "./mobile-developer-overdrive.md",
     "./ui-designer.md",
-    "./websocket-engineer.md"
+    "./ui-designer-overdrive.md",
+    "./websocket-engineer.md",
+    "./websocket-engineer-overdrive.md"
   ]
 }

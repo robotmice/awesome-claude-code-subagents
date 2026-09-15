@@ -10,15 +10,26 @@
   "license": "MIT",
   "agents": [
     "./ab-test-analysis.md",
+    "./ab-test-analysis-overdrive.md",
     "./cohort-analysis.md",
+    "./cohort-analysis-overdrive.md",
     "./competitive-analyst.md",
+    "./competitive-analyst-overdrive.md",
     "./data-researcher.md",
+    "./data-researcher-overdrive.md",
     "./first-principles-thinking.md",
+    "./first-principles-thinking-overdrive.md",
     "./market-researcher.md",
+    "./market-researcher-overdrive.md",
     "./project-idea-validator.md",
+    "./project-idea-validator-overdrive.md",
     "./research-analyst.md",
+    "./research-analyst-overdrive.md",
     "./scientific-literature-researcher.md",
+    "./scientific-literature-researcher-overdrive.md",
     "./search-specialist.md",
-    "./trend-analyst.md"
+    "./search-specialist-overdrive.md",
+    "./trend-analyst.md",
+    "./trend-analyst-overdrive.md"
   ]
 }

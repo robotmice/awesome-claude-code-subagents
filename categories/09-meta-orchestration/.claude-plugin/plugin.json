@@ -10,15 +10,26 @@
   "license": "MIT",
   "agents": [
     "./agent-installer.md",
+    "./agent-installer-overdrive.md",
     "./agent-organizer.md",
+    "./agent-organizer-overdrive.md",
     "./codebase-orchestrator.md",
+    "./codebase-orchestrator-overdrive.md",
     "./context-manager.md",
+    "./context-manager-overdrive.md",
     "./error-coordinator.md",
+    "./error-coordinator-overdrive.md",
     "./it-ops-orchestrator.md",
+    "./it-ops-orchestrator-overdrive.md",
     "./knowledge-synthesizer.md",
+    "./knowledge-synthesizer-overdrive.md",
     "./multi-agent-coordinator.md",
+    "./multi-agent-coordinator-overdrive.md",
     "./performance-monitor.md",
+    "./performance-monitor-overdrive.md",
     "./task-distributor.md",
-    "./workflow-orchestrator.md"
+    "./task-distributor-overdrive.md",
+    "./workflow-orchestrator.md",
+    "./workflow-orchestrator-overdrive.md"
   ]
 }
