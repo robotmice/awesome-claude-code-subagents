@@ -4,9 +4,9 @@
   "description": "Language-specific expert agents with deep framework knowledge - Python, TypeScript, Go, Rust, Java, and more",
   "author": {
     "name": "VoltAgent Community",
-    "url": "https://github.com/VoltAgent"
+    "url": "https://github.com/robotmice"
   },
-  "repository": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "repository": "https://github.com/robotmice/awesome-claude-code-subagents",
   "license": "MIT",
   "agents": [
     "./angular-architect.md",

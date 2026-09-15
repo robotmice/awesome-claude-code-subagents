@@ -4,9 +4,9 @@
   "description": "Tooling and developer productivity experts - CLI tools, documentation, README generation, and DX optimization",
   "author": {
     "name": "VoltAgent Community",
-    "url": "https://github.com/VoltAgent"
+    "url": "https://github.com/robotmice"
   },
-  "repository": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+  "repository": "https://github.com/robotmice/awesome-claude-code-subagents",
   "license": "MIT",
   "agents": [
     "./build-engineer.md",
